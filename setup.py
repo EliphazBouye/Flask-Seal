@@ -1,8 +1,8 @@
 """
-Flogin
+Flask-Seal
 -------------
 
-This is the description for that library
+Flask-Seal provides user session management for flask
 """
 from setuptools import setup
 
@@ -10,7 +10,7 @@ from setuptools import setup
 setup(
     name='Flogin',
     version='1.0',
-    url='http://github.com/EliphazBouye/flogin/',
+    url='http://github.com/EliphazBouye/Flask-Seal/',
     license='MIT',
     author='Eliphaz BOUYE',
     author_email='eliphazbouye@gmail.com',
