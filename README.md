@@ -1,1 +1,1 @@
-# Flogin provides user session management with flask
+# Flask Seal provides user session management with flask
